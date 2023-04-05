@@ -1,0 +1,7 @@
+{
+    "colorize": true,
+    "timestampKey": "@timestamp",
+    "messageKey": "message",
+    "levelKey": "log.level",
+    "ignore": "log.process, log.host, log.ecs"
+}
